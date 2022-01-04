@@ -2,7 +2,7 @@
 This are my solutions for the yearly [Advent of Code](https://adventofcode.com/) challenges.
 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-![Python](https://img.shields.io/badge/Python-v3.9-informational)
+[![Python](https://img.shields.io/badge/Python-v3.9-informational)]
 
 ## About this repository
 Of course, many solutions can be written shorter and probably more efficiently, but on the one hand I want to write code that is easy to understand and on the other hand spare [PyLint's](https://pylint.org/) nerves. 😉
