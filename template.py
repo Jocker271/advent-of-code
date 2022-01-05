@@ -28,7 +28,7 @@ def create_file_structure(year):
         os.mkdir(folder_path)
     template = get_template().replace('{year}', year)
     for day in range(1, 26):
-        day_folder = os.path.join(folder_path, f'day_{str(day)}')
+        day_folder = os.path.join(folder_path, f'day_{str(day).zfill(2)}')
         if not os.path.exists(day_folder):
             os.mkdir(day_folder)
             py_file_path = os.path.join(day_folder, f'day_{str(day)}.py')
