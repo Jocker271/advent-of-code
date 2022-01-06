@@ -11,13 +11,13 @@ As I only came across this project in 2020, some tasks are still unresolved. In 
 
 ### Challenge Progress
 <!-- 0%lightgrey 2%+orange 25%+yellow 50%+yellowgreen 75%+green 100%brightgreen -->
-[![Progress 2015](https://img.shields.io/badge/2015-52%25-yellowgreen)](2015) 
+[![Progress 2015](https://img.shields.io/badge/2015-56%25-yellowgreen)](2015) 
 [![Progress 2016](https://img.shields.io/badge/2016-0%25-lightgrey)](2016) 
 [![Progress 2017](https://img.shields.io/badge/2017-0%25-lightgrey)](2017) 
 [![Progress 2018](https://img.shields.io/badge/2018-0%25-lightgrey)](2018) 
-[![Progress 2019](https://img.shields.io/badge/2019-32%25-yellow)](2019) 
-[![Progress 2020](https://img.shields.io/badge/2020-40%25-yellow)](2020) 
-[![Progress 2021](https://img.shields.io/badge/2021-16%25-orange)](2021)
+[![Progress 2019](https://img.shields.io/badge/2019-0%25-lightgrey)](2019) 
+[![Progress 2020](https://img.shields.io/badge/2020-0%25-lightgrey)](2020) 
+[![Progress 2021](https://img.shields.io/badge/2021-12%25-orange)](2021)
 
 ## Template
 To avoid creating the new files every day, I wrote a script ([template.py](template.py)) that creates all the necessary folders and files of the entered year.
