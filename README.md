@@ -11,7 +11,7 @@ As I only came across this project in 2020, some tasks are still unresolved. In 
 
 ### Challenge Progress
 <!-- 0%lightgrey 2%+orange 25%+yellow 50%+yellowgreen 75%+green 100%brightgreen -->
-[![Progress 2015](https://img.shields.io/badge/2015-64%25-yellowgreen)](2015) 
+[![Progress 2015](https://img.shields.io/badge/2015-68%25-yellowgreen)](2015) 
 [![Progress 2016](https://img.shields.io/badge/2016-0%25-lightgrey)](2016) 
 [![Progress 2017](https://img.shields.io/badge/2017-0%25-lightgrey)](2017) 
 [![Progress 2018](https://img.shields.io/badge/2018-0%25-lightgrey)](2018) 
@@ -23,7 +23,7 @@ As I only came across this project in 2020, some tasks are still unresolved. In 
 To avoid creating the new files every day, I wrote a script ([template.py](template.py)) that creates all the necessary folders and files of the entered year.
 
 ## Contact
-Johannes Wehden - [Jocker271](https://github.com/Jocker271) - aoc@johanneswehden.de
+Johannes Wehden - [Jocker271](https://github.com/Jocker271) - git@johanneswehden.de
 
 Project Link: [https://github.com/Jocker271/advent-of-code](https://github.com/Jocker271/advent-of-code)
 
