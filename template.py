@@ -67,7 +67,7 @@ main()
 #     input_file = f'{os.path.dirname(__file__)}\\input.txt'
 #     with open(input_file, encoding='utf-8', mode='r') as file:
 #         lines = file.read().split('\n')
-#         # lines = list(map(int, lines)) #convert Strings to Integers
+#         # lines = [int(line) for line in lines]
 #         return lines
 
 # def part_one(puzzle):
