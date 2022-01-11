@@ -8,7 +8,7 @@ Find this challenge at https://adventofcode.com/2015/day/14
 import os
 
 def get_challenge_input():
-    '''Read input.txt and return content as List'''
+    '''Read input.txt and return content as dictionary'''
     input_file = f'{os.path.dirname(__file__)}\\input.txt'
     with open(input_file, encoding='utf-8', mode='r') as file:
         reindeer_data = {}

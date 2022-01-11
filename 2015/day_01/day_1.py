@@ -26,6 +26,7 @@ def part_two(puzzle):
         floor += steps[char]
         if floor == -1:
             return idx + 1
+    return False
 
 puzzle = get_challenge_input()
 print(f'Part 1: {part_one(puzzle)}')
